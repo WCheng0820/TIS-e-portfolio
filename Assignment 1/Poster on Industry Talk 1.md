@@ -1,4 +1,4 @@
-# Assignment 1: Poster on Industry Talk
+# Assignment 1: Poster on Industry Talk 1
 
 Title: 	Overview of ICT Jobs in Clarity Techworks Sdn. Bhd.
 
