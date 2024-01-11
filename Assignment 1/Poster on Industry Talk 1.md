@@ -1,6 +1,8 @@
-# Title: 	Overview of ICT Jobs in Clarity Techworks Sdn. Bhd.
+# Assignment 1: Poster on Industry Talk
 
-## Section 05 Group 5
+Title: 	Overview of ICT Jobs in Clarity Techworks Sdn. Bhd.
+
+Section 05 Group 5
 
 Date: 14th November 2023
 
