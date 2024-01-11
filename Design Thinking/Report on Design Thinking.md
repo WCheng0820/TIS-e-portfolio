@@ -122,6 +122,91 @@ To ensure the assignment proceeds smoothly and flawlessly, the design thinking p
 
    Additionally, alongside these phases, we collectively handled the written report, ensuring it aligned with the tasks assigned to each phase. Even though we each had our specific roles, we always jumped in to help each other. It was clear that doing it all alone wasn't feasible. We faced some challenges along the way, but with hard work and Nurin's leadership, we successfully completed our design thinking project. Our teamwork, constant communication, and willingness to support one another were the keys to our achievement.
 
+## DESIGN THINKING ASSESMENT POINTS
+
+Within the scope of design thinking, assessment is a continuous and crucial activity that is essential to the project's success. The purpose of strategically distributing this review over several stages is to guarantee early problem identification, ongoing progress evaluation, and project goal adherence.
+ 
+The final project results and solutions are presented at the project demonstration, which is a crucial point for a thorough assessment. The team's competence in handling the design problem and the effectiveness of suggested solutions are examined closely. At the same time, evaluations conducted in between design thinking stages make it possible to identify possible problems early on, which speeds up course correction and increases project efficiency.
+
+## DESIGN THINKING SAMPLE EVIDENCE
+
+Carefully constructing and organizing interview questions during the Empathy phase shows a thorough comprehension of user needs. This stage is further enhanced by the creation of composite characters that incorporate subtle demographic details.
+
+> (Table 4.1: Details for interview session)
+
+| Questions | Answers |
+|-----------|---------|
+| As a UTM freshman, what do you think of UTM campus? | So far, everything is going well, but I find the UTM campus to be large and complex. Sometimes, I struggle to navigate and find the route to my destination, especially when attending events. |
+| How are your daily lectures? Is it challenging to find the venue for the lecture? | Yes, the daily lectures have been quite challenging recently. Some lecturers change the venue for their class at the last minute, which makes it difficult for me to locate the new venue in a timely manner. The search process is time-consuming, and as a result, I am often late for the lecture session. These last-minute changes have significantly impacted the smooth flow of our daily lectures.|
+| Do you find the UTM's bus service convenient for your needs? | Well, it's a bit challenging. I am often waiting a long time at the designated bus stops because it's difficult to know when the bus will arrive. The lack of a clear schedule makes it hard to plan when to be at the stop to catch the bus directly. So, in terms of convenience, there's room for improvement. |
+| Have you ever used any navigation system apps like Google Maps or Waze? Do you think they can help you find the destination you want to reach on the UTM campus? | Yes, I have used Google Maps before, and it does help me reach the places I want to go. However, once I arrive at the building I intend to visit, I still need to spend time finding the specific lecture hall or classroom within that building. Additionally, if there is an emergency or an unexpected event in that building, I cannot receive timely notifications, compromising my safety. |
+| What do you think about the UTM Smart app? | For UTM students, I believe the UTMSmart app is quite beneficial. It aids both students and professors by facilitating tasks such as attendance tracking, grade checking, and scholarship information. However, I have noticed a potential issue where students can get QR codes from their peers to cheat their attendance records. Sometimes, the UTMSmart app will getting error, causing students to spend a lot of time scanning attendance QR codes repeatedly. |
+
+A clear documentation of the difficulties that have been identified during the Define phase highlights the obstacles and unmet needs. Adding depth to the understanding of user requirements is a thorough investigation of emotional elements impacting the highlighted design issues.
+ 
+A thorough log of the brainstorming process that highlights the team's inventiveness and ideation skills characterizes the Ideate phase. The methodical recording of creative concepts produced during ideation sessions offers a strong basis for further stages.
+ 
+During the prototype phase, the process of developing a prototype is transparently explained, along with the complexities of design decisions. A careful description of how user feedback was incorporated and how teamwork was used to enhance the prototype shows a dedication to user-centric design.
+ 
+Comprehensive documentation covering user interactions and feedback analysis is required throughout the test phase. A thorough evaluation is carried out to compare the prototype's performance to both user expectations and discovered difficulties.
+
+## REFLECTIONS
+**NURIN IZZATI BINTI MOHD RASHIDIN**
+
+Being the finest software engineer in the future is my goal as I pursue software engineering as my course. I want to be able to teach my junior and help a firm solve problems and design the greatest idea possible, all while learning more about difficult projects from the process. Additionally, this new design thinking has taught me to be empathetic towards consumers and people so that I can offer the most comfortable solution. Additionally, this project helps me practise critical and logical thinking by providing me with an image of a real-world problem. I believe that to better myself, I need to attend a lot of workshops, study more about computer and technology development, and maintain a constant state of curiosity about the world around me. I think I can develop my professionalism, humility, and experience through this.
+
+**TAY WEI CHENG**
+
+As a software engineering student, my overarching goal is to become a proficient and innovative software developer, contributing to cutting-edge technological advancements. I aspire to create solutions that address real-world problems and enhance user experiences. 
+Design thinking plays a pivotal role in achieving this goal by fostering a holistic approach to problem-solving. It emphasizes empathizing with end-users, defining their needs, ideating creative solutions, prototyping, and iterating based on feedback. This methodology ensures that the software I develop is not only technically sound but also user-centered, meeting the actual requirements and expectations of those who will interact with it. 
+To enhance my potential in the industry, I plan to engage in continuous learning, staying abreast of emerging technologies and industry trends. Building a robust portfolio by working on diverse projects will showcase my skills and practical application of knowledge. Additionally, I aim to cultivate effective communication and collaboration skills, recognizing the significance of teamwork in delivering successful software solutions. Networking with professionals in the field will provide valuable insights and opportunities for growth, contributing to a well-rounded and impactful presence in the dynamic realm of software engineering.
+
+**FOO MING KUANG**
+
+Throughout this design thinking project, I gained profound insights, especially during the creation of the prototype for our navigation app. It became evident that developing software, particularly for a complex application like a navigation system, isn't a simple task. It demands not just technical skills but also dedication and hard work. Most importantly, it highlighted the significance of teamwork in achieving such goals. Witnessing the intricate process of ideation, designing, and refining the prototype emphasized the collaborative effort required to bring innovative ideas to life.
+
+   This experience was an eye-opener, underscoring the challenges and intricacies involved in software development. It made me realize the immense dedication and persistence required in transforming concepts into tangible, user-friendly applications. The journey with this project sparked a strong aspiration within me. I aspire to further hone my programming skills to a level where I can contribute significantly to the creation of a comprehensive smart campus navigation app for UTM or similar institutions in the future. This project instilled in me the determination to continually learn and grow, aiming to be part of future endeavors where technology enhances everyday experiences.
+
+**RIFAT AHMAD KHAN**
+
+a. Objective/Dream in Relation to Course/Program: Personal reflections entail a contemplative analysis of one's own objectives and ambitions in relation to the course or program.
+ 
+b. Impact of Design Thinking on Goals/Dreams: A key component of this reflection is articulating how the design thinking process has a transforming effect on individual goals and aspirations in the academic and professional spheres.
+ 
+c. Action/Improvement/Plan for Industry Potential: A forward-looking viewpoint is conveyed by the strategically defined actions, improvements, or plans targeted at boosting individual efficacy and potential within the industry.
+
+
+## EACH MEMBER'S TASK
+
+To continue with the report, the team members' respective responsibilities are broken down as follows:
+
+**Wei Cheng (Define and Empathize):**
+
+ For user engagement, Wei Cheng painstakingly gathers and refines the list of interview questions. At the same time, Wei Cheng methodically records and improves upon specified issues in light of thorough user feedback.
+
+**Ming Kuang, the Ideal:**
+
+ Ming Kuang, who leads the Ideate phase, highlights the richness of generated ideas while providing a concise summary of the brainstorming process. Working well with the group, Ming Kuang selects and refines the features that will be included in the prototype.
+
+**Nurin (Prototype):**
+
+Nurin uses the Canva platform to provide insights into the painstaking development process of the prototype. Nurin is in charge of this phase. Nurin also gives a thorough explanation of how user input was added, improving the prototype's effectiveness.
+ 
+**Khan (Test):**
+
+In charge of overseeing the testing phase, Khan meticulously records user interactions and feedback for in-depth examination. Khan works fluidly with the team, implementing iterative changes to the prototype in response to user feedback.
+ 
+Our team guarantees a professional, focused, and cooperative effort toward the successful completion of the design thinking project through the careful assignment of roles.
+
+## REFERENCES
+
+- (2020, January 25). Retrieved from https://www.interaction-design.org/literature/topics/design-thinking
+- Han, E. (2022). Retrieved Nov 29, 2023, from https://online.hbs.edu/blog/post/what-is-design-thinking
+- Stevens, E. (n.d.). CareerFoundry. Retrieved Nov 25, 2023, from https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/
+- Bus, C. &. (2023). NTU Omnibus [Moblie Application]. Retrieved from https://apps.apple.com/ca/app/ntu-omnibus/id1636457987
+(n.d.). Retrieved from Google Maps: https://www.google.com/maps
+
+
 
 
 
