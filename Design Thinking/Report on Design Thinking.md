@@ -2,6 +2,11 @@
 
 ## TITLE: SMART CAMPUS NAVIGATION APP📍🗺️
 
+## Video ▶️ （Click the picture to watch the video👇)
+[<img src="https://img.youtube.com/vi/Q8YgBeQIaGw/hqdefault.jpg" width="500" height="400"
+/>](https://www.youtube.com/embed/Q8YgBeQIaGw)
+
+
 ## INTRODUCTION
 
    What is design thinking? Design thinking is a mindset and approach to problem-solving and innovation anchored around human-centred design. So it uses evidence of how consumers engage with a product or service, to be truly human-centred, designers watch how people use a certain product or service and continue to refine the product or service to improve the customer’s experience. It is based heavily on the methods and processes that designers use, but throughout time it has evolved from a range of different fields such as technology, engineering, architecture, education and business and it does not necessarily have to be design-specific. (Hasso Plattner, 2012) said that “design thinking creates a vibrant interactive environment that promotes learning towards conceptual prototyping.” It favors moving quickly to get prototypes out to test, rather than endless research or rumination. Besides, design thinking is also a process which consists of 5 phases which are Empathise, Define, Idealate, Prototype and Test.
@@ -158,14 +163,16 @@ Being the finest software engineer in the future is my goal as I pursue software
 **TAY WEI CHENG**
 
 As a software engineering student, my overarching goal is to become a proficient and innovative software developer, contributing to cutting-edge technological advancements. I aspire to create solutions that address real-world problems and enhance user experiences. 
+
 Design thinking plays a pivotal role in achieving this goal by fostering a holistic approach to problem-solving. It emphasizes empathizing with end-users, defining their needs, ideating creative solutions, prototyping, and iterating based on feedback. This methodology ensures that the software I develop is not only technically sound but also user-centered, meeting the actual requirements and expectations of those who will interact with it. 
+
 To enhance my potential in the industry, I plan to engage in continuous learning, staying abreast of emerging technologies and industry trends. Building a robust portfolio by working on diverse projects will showcase my skills and practical application of knowledge. Additionally, I aim to cultivate effective communication and collaboration skills, recognizing the significance of teamwork in delivering successful software solutions. Networking with professionals in the field will provide valuable insights and opportunities for growth, contributing to a well-rounded and impactful presence in the dynamic realm of software engineering.
 
 **FOO MING KUANG**
 
 Throughout this design thinking project, I gained profound insights, especially during the creation of the prototype for our navigation app. It became evident that developing software, particularly for a complex application like a navigation system, isn't a simple task. It demands not just technical skills but also dedication and hard work. Most importantly, it highlighted the significance of teamwork in achieving such goals. Witnessing the intricate process of ideation, designing, and refining the prototype emphasized the collaborative effort required to bring innovative ideas to life.
 
-   This experience was an eye-opener, underscoring the challenges and intricacies involved in software development. It made me realize the immense dedication and persistence required in transforming concepts into tangible, user-friendly applications. The journey with this project sparked a strong aspiration within me. I aspire to further hone my programming skills to a level where I can contribute significantly to the creation of a comprehensive smart campus navigation app for UTM or similar institutions in the future. This project instilled in me the determination to continually learn and grow, aiming to be part of future endeavors where technology enhances everyday experiences.
+   This experience was an eye-opener, underscoring the challenges and intricacies involved in software development. It made me realize the immense dedication and persistence required to transform concepts into tangible, user-friendly applications. The journey with this project sparked a strong aspiration within me. I aspire to further hone my programming skills to a level where I can contribute significantly to the creation of a comprehensive smart campus navigation app for UTM or similar institutions in the future. This project instilled in me the determination to continually learn and grow, aiming to be part of future endeavours where technology enhances everyday experiences.
 
 **RIFAT AHMAD KHAN**
 
@@ -205,14 +212,3 @@ Our team guarantees a professional, focused, and cooperative effort toward the s
 - Stevens, E. (n.d.). CareerFoundry. Retrieved Nov 25, 2023, from https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/
 - Bus, C. &. (2023). NTU Omnibus [Moblie Application]. Retrieved from https://apps.apple.com/ca/app/ntu-omnibus/id1636457987
 (n.d.). Retrieved from Google Maps: https://www.google.com/maps
-
-
-
-
-
-
-## Video ▶️
-[<img src="https://img.youtube.com/vi/Q8YgBeQIaGw/hqdefault.jpg" width="500" height="400"
-/>](https://www.youtube.com/embed/Q8YgBeQIaGw)
-
-Please click the picture above to watch the video👆
