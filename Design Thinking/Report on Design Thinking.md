@@ -6,6 +6,8 @@
 [<img src="https://img.youtube.com/vi/Q8YgBeQIaGw/hqdefault.jpg" width="500" height="400"
 />](https://www.youtube.com/embed/Q8YgBeQIaGw)
 
+## Low Fidelity Prototype
+> https://www.canva.com/design/DAF1GE7TKVw/KCvuksKcxuYVi8_ZOyN_4A/view
 
 ## INTRODUCTION
 
