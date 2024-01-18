@@ -5,5 +5,5 @@
 
 <img src="https://github.com/WCheng0820/TIS-e-portfolio/assets/153821757/17859847-304b-42c2-8cba-d5be21e3db57" width="300" height="400" />
 
-<img src="https://github.com/WCheng0820/TIS-e-portfolio/assets/153821757/38e3ac61-2f63-4501-8409-2f230e4782ae" width="300" height="400" />
+
 
